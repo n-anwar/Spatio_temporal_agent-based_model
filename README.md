@@ -1,6 +1,6 @@
 # Spatio-temporal agent-based modelling of malaria
 This is the code repo to accompany the above-titled article.
-The code found in the directory ABM is used to provide an overview of the model implementation with both humans and mosquitoes as agents.
+
 
 
 # Project tree
@@ -15,3 +15,4 @@ The code found in the directory ABM is used to provide an overview of the model 
      * [mosq_suitability_rasters](./data/mosq_suitability_rasters)
  * [README.md](./README.md)
  
+The code found in the directory ABM is used to provide an overview of the model implementation with both humans and mosquitoes as agents. 
