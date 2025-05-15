@@ -13,6 +13,6 @@ The code found in the directory ABM is used to provide an overview of the model 
  * [data](./data)
    * [synthetic_case_data.csv](./data/synthetic_case_data.csv)
    * [synthetic_case_data.csv](./data/synthetic_household_data.csv)
-   * [mosq_suitability_rasters](./mosq_suitability_rasters)
+* [mosq_suitability_rasters](./mosq_suitability_rasters)
  * [README.md](./README.md)
  
