@@ -4,7 +4,6 @@ The code found in the directory ABM is used to provide an overview of the model 
 
 
 # Project tree
- * [tree-md](./tree-md)
  * [ABM](./ABM)
    * [agent-based_model.R](./ABM/agent-based_model.R)
    * [mosquito_model.R](./ABM/mosquito_model.R)
