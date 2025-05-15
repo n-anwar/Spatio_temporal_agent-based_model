@@ -10,7 +10,7 @@ This is the code repo to accompany the above-titled article.
    * [model_parameters.R](./ABM/model_parameters.R)
 * [Supplementary_video](./Supplementary_video)
    * [Mosquito_dynamics_5yr.mp4](./Supplementary_video/Mosquito_dynamics_5yr.mp4)
-   * [Mosquito suitability all year.gif](./Supplementary_video/Mosquito_suitability_all_year.gif)
+   * [Mosquito_suitability_all_year.gif](./Supplementary_video/Mosquito_suitability_all_year.gif)
 * [data](./data)
    * [synthetic_case_data.csv](./data/synthetic_case_data.csv)
    * [synthetic_household_data.csv](./data/synthetic_household_data.csv)
