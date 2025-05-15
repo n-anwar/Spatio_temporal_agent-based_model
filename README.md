@@ -15,4 +15,4 @@ This is the code repo to accompany the above-titled article.
      * [mosq_suitability_rasters](./data/mosq_suitability_rasters)
  * [README.md](./README.md)
  
-The code found in the directory [ABM](./ABM) is used to provide an overview of the model implementation with both humans and mosquitoes as agents. 
+The codes found in the directory [ABM](./ABM) are used to provide an overview of the model implementation with both humans and mosquitoes as agents. Due to legal and ethical restrictions, the original data used in the study can not be shared, and instead, a synthetic human dataset is provided in the directory 
