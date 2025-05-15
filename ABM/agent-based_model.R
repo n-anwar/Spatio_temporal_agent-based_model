@@ -1,6 +1,6 @@
 set.seed(7) # for reproducibility
 
-source('~/ABM/mosquito_model.R')
+source('~/ABM/set_up_model_environemnt.R')
 
 #could use any real first date and it should run
 time_zero_date<-as.Date("2025-01-01")
