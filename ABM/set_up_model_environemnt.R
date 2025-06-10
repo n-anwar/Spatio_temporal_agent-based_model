@@ -4,6 +4,7 @@ source('~/ABM/model_parameters.R')
 library('raster')
 library(tidyverse)
 library(ggpubr)
+library(SpatialEpi)
 
 ######################################
 ##read_human data
